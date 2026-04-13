@@ -13,7 +13,7 @@ pip install transformers accelerate pillow tqdm
 
 ## Data
 
-Download the dataset from [Baidu Netdisk](https://pan.baidu.com/s/12-KAh8cMhRSEU1Xsmg4x2A) (提取码: `msgd`) and extract it into the `data/` directory:
+Download the dataset from [Baidu Netdisk](https://pan.baidu.com/s/12-KAh8cMhRSEU1Xsmg4x2A) (extraction code: `msgd`) and extract it into the `data/` directory:
 
 ```
 data/
